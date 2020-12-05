@@ -11,3 +11,19 @@
 .card .buttons {
   margin-bottom: .5rem;
 }
+
+.card .text {
+  font-size: 1.5rem;
+}
+
+.card .text.red {
+  color: red;
+}
+
+.card .text.blue {
+  color: blue;
+}
+
+.card .text.green {
+  color: green;
+}
